@@ -6,3 +6,8 @@
 - Passionate about code quality, efficiency, time limits and architectural concepts.
 - Constant learner, teamworker, hardworker, motivator.
 - :sunrise_over_mountains: :ski: hiking and skiing on my leisure time
+
+<a href="https://www.linkedin.com/in/dmytro-kulik/">
+  <img align="left" alt="DK's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
