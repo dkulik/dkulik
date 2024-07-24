@@ -1,4 +1,3 @@
-### Nice to meet you :)  <img src="https://w7.pngwing.com/pngs/944/567/png-transparent-emojipedia-handshake-homo-sapiens-hug-shake-hands-hand-emoticon-greeting-thumbnail.png" width="25px">
 
 - Fallen in love with C++ during master studies.
 - Developping software applications since 2014 (8 years).
